@@ -12,3 +12,6 @@ Hellooooo there new updated stuff here for feature-2
 Ok let's try rebasing from master
 more new changes here
 Add more
+More 1
+More 2
+More 3
